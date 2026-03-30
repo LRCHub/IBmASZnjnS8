@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "グレースノート",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-30T15:26:15.981887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グレースノート",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_グレースノート_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グレースノート",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_グレースノート_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グレースノート (Grace note)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_グレースノート_(Grace_note)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グレースノート - grace note",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_グレースノート_-_grace_note_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aimer「グレースノート」MUSIC VIDEO (短編アニメ「夜の国」第2夜 主題歌）",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/05_Aimer「グレースノート」MUSIC_VIDEO_(短編アニメ「夜の国」第2夜_主題歌)_Aimer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グレースノート",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_グレースノート_Aimer.txt"
+    }
+  ]
+}
